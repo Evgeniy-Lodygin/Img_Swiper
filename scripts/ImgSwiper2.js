@@ -10,7 +10,7 @@ class ImgSwiper{
 		this.currentImgNum = 0;
 		this.currentImgNumSlide = 0; //temp
 		this.SetIntervalStart 		= 0;
-		this.slideshowPeriod 		= 1;
+		this.slideshowPeriod 		= 2;
 		this.isSlideshowStart 		= false;
 		this.showInit();
 		this.highlightInit();
