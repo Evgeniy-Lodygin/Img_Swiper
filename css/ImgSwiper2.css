@@ -1,5 +1,5 @@
 body{
-	padding: 0;
+	padding:0;
 	margin: 0;
 }
 .container{
@@ -64,4 +64,10 @@ background-color: #fff;
 }
 .highlight{
 	border: 1px solid #000;
+}
+@media screen and (max-width: 550px) {
+  .swiper-img-block{
+	max-width: 90%;
+	max-height: 90%;
+	}
 }
